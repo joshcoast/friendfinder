@@ -58,6 +58,21 @@ var friendsArray = [{
 		1,
 		5
 	]
+}, {
+	"name": "Joshiewash",
+	"photo": "https://joshcoast.github.io/images/bio-image.jpg",
+	"scores": [
+		3,
+		1,
+		1,
+		5,
+		1,
+		2,
+		3,
+		3,
+		4,
+		3
+	]
 }];
 
 module.exports = friendsArray;
